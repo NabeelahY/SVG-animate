@@ -1,0 +1,10 @@
+body {
+    background-color: #999;
+    text-align: center;
+    padding: 10px;
+}
+
+.title {
+    font-family: 'Frijole', cursive;
+    font-size: 3rem;
+}
