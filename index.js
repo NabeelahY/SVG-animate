@@ -1,4 +1,3 @@
-
 anime({
   targets: ".stroke",
   strokeDashoffset: [anime.setDashoffset, 0],
